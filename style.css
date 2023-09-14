@@ -1,0 +1,34 @@
+body{
+    border: 3px solid;
+    border-radius: 2vh;
+    border-color: red;
+    align-content: center;
+    background-color: rgb(0, 0, 0);
+
+}
+h1{
+    color: white;
+    text-align: center;
+}
+img{
+    margin: 0 auto;
+    display: block;
+    width: 500px;
+}
+.text1{
+    color: red;
+}
+.text2{
+    color: blue;
+}
+h2{
+    text-align: center;
+    color: aliceblue;
+}
+.text3{
+    color: green;
+}
+a{
+    text-align: end;
+    text-decoration: none;
+}
